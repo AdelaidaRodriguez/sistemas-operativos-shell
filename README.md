@@ -24,7 +24,7 @@
 
 ## 5. Enlace al Video (Sustentación 10 min)
 
-
+### Evidencia de funcionamiento de la Shell
 <img width="1094" height="618" alt="image" src="https://github.com/user-attachments/assets/535efde2-2e50-4e23-ba93-a2f6e2d17e6a" />
 
 
